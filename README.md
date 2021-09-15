@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on application documentation and information systemms.
+- 🔭 I’m currently working on application documentation and information systems.
 - 🌱 I’m currently learning Swift, hoping to become fluent in macOS development.
 - 👯 I’m looking to collaborate on backend projects and databases.
 - 🤔 I’m looking for help with finding macOS learning material that is not too old.
